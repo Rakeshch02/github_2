@@ -1,1 +1,1 @@
-# github_2
+These total information says about project
